@@ -57,7 +57,7 @@ This project tracks football players, referees, and the ball in a video, assigni
 
 ### 1. Clone the Repository
 ```bash
-git clone <https://github.com/Zubair-10-eng/Football-Detection-with-ReIDentification.git>
+git clone <https://github.com/Arsalan80425/Football-Detection-with-ReIDentification.git>
 cd Football Assignment
 ```
 
