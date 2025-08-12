@@ -4,6 +4,11 @@ This project tracks football players, referees, and the ball in a video, assigni
 
 ---
 
+## 🖼️ Image Preview
+
+![Image Preview](https://raw.githubusercontent.com/Arsalan80425/Football-Detection-with-ReIDentification/refs/heads/main/images/output.png)
+---
+
 ## Table of Contents
 - [Features](#features)
 - [YOLOv11l Model Summary](#yolov11l-model-summary)
